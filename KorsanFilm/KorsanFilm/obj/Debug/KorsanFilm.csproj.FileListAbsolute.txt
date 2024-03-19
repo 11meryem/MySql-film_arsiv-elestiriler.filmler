@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\KORUMASIZ\meryem794\KorsanFilm\KorsanFilm\bin\Debug\KorsanFilm.exe.config
+C:\Users\User\Desktop\KORUMASIZ\meryem794\KorsanFilm\KorsanFilm\bin\Debug\KorsanFilm.exe
+C:\Users\User\Desktop\KORUMASIZ\meryem794\KorsanFilm\KorsanFilm\bin\Debug\KorsanFilm.pdb
+C:\Users\User\Desktop\KORUMASIZ\meryem794\KorsanFilm\KorsanFilm\obj\Debug\KorsanFilm.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\KorsanFilm\KorsanFilm\obj\Debug\KorsanFilm.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\KorsanFilm\KorsanFilm\obj\Debug\KorsanFilm.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\meryem794\KorsanFilm\KorsanFilm\obj\Debug\KorsanFilm.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\meryem794\KorsanFilm\KorsanFilm\obj\Debug\KorsanFilm.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\KorsanFilm\KorsanFilm\obj\Debug\KorsanFilm.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\meryem794\KorsanFilm\KorsanFilm\obj\Debug\KorsanFilm.csproj.CopyComplete
+C:\Users\User\Desktop\KORUMASIZ\meryem794\KorsanFilm\KorsanFilm\obj\Debug\KorsanFilm.exe
+C:\Users\User\Desktop\KORUMASIZ\meryem794\KorsanFilm\KorsanFilm\obj\Debug\KorsanFilm.pdb
+C:\Users\User\Desktop\KORUMASIZ\meryem794\KorsanFilm\KorsanFilm\obj\Debug\KorsanFilm.Elestiriler.resources
